@@ -21,6 +21,7 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
+
     <title>Work Day Scheduler</title>
   </head>
 
@@ -67,8 +68,8 @@
           var tRow = $('<tr>');
 
           var timer = $('<td>').text(time[i]);
-          var notes = $('<td>').append('<input class = "' + time[i] + '">');
-          var save = $('<td>').append('<button class = "saveBtn" id = "' + time[i] + '"> Save Button </button>')
+          var notes = $('<td>').append('<input class = "' + time[i] + ' input">');
+          var save = $('<td>').append('<button class = "saveBtn" id = "' + time[i] + '"> Save </button>')
           
           tRow.append(timer, notes, save);
           $('#calTable').append(tRow);
