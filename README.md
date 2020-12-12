@@ -1,9 +1,10 @@
-# Weekly Planner Using an API
+# Weekly Planner
 
+This weekly planner app utilizes local storage to save data entered into the notes section. It also gives the time and date.
 
 ## Installation
 
-Follow the link below to open the webpage for the Horiseon website.
+Follow the link below to open the webpage.
 
 ```bash
 https://rhowe20.github.io/Horiseon/
@@ -11,23 +12,12 @@ https://rhowe20.github.io/Horiseon/
 
 ## Usage 
 
-By clicking the links in the navigation bar on the top of the page, it will direct clients to the sections below.
+The calendar at the top has the date and time listed. On the left side of the page, clients can see the time blocks  and then in the center they can utilize the notes section. On the right, are the save buttons to save what is noted.
 
+![Blank Calendar](https://github.com/rhowe20/Weekly-Planner-Using-API/blob/main/assets/1st.png)
 
-![Top of Page with Links](https://github.com/rhowe20/Horiseon/blob/main/images/top-page.png)
+When a note is entered, the client can click the save button to then store it in local storage. The note will stay in the page if refreshed for that day.
 
-The links titled "Search Engine Optimization" and "Online Reputation Management" will direct clients to the sections midway down the page.
+![Enter Notes](https://github.com/rhowe20/Weekly-Planner-Using-API/blob/main/assets/2nd.png) 
 
-![Links to Search Engine Optimization and Online Reputation Management](https://github.com/rhowe20/Horiseon/blob/main/images/mid-section.png) 
-
-The "Social Media Marketing" link will then direct clients to the bottom of the page.
-
-![Link to Social Media Marketing](https://github.com/rhowe20/Horiseon/blob/main/images/bottom-of-page.png)
-
-## Updates
-
-The first correction made were to the broken links directing clients to the different sections to the page. 
-
-The HTML is now formatted using symantic elements rather than using straight div.
-
-CSS has been condensed to be more concise when reading the code.
+![Local Storage](https://github.com/rhowe20/Weekly-Planner-Using-API/blob/main/assets/3rd.png)
