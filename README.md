@@ -1,1 +1,1 @@
-# Weekly-Planner-Using-API
+# Weekly Planner Using an API

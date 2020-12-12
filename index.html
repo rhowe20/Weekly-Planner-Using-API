@@ -94,7 +94,9 @@
         var dataStorage = localStorage.getItem(time[i]);
         $('.' + time[i]).val(dataStorage);
         var NowMoment = moment().format('h A');
+        console.log(NowMoment)
         var input = $('.' + time[i])
+        console.log(time[i])
 
         if(NowMoment === time[i]){
           input.addClass('present');
