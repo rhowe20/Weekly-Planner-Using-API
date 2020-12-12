@@ -7,7 +7,7 @@ This weekly planner app utilizes local storage to save data entered into the not
 Follow the link below to open the webpage.
 
 ```bash
-https://rhowe20.github.io/Horiseon/
+https://rhowe20.github.io/Weekly-Planner-Using-API/
 ```
 
 ## Usage 
