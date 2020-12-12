@@ -21,3 +21,7 @@ When a note is entered, the client can click the save button to then store it in
 ![Enter Notes](https://github.com/rhowe20/Weekly-Planner-Using-API/blob/main/assets/2nd.png) 
 
 ![Local Storage](https://github.com/rhowe20/Weekly-Planner-Using-API/blob/main/assets/3rd.png)
+
+
+
+Not noted in the images due to the time they were taken, the past time blocks will be grey, the current time block will be white, and the future time blocks will be green.
